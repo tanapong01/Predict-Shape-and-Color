@@ -1,0 +1,9 @@
+{0: 'cubeBlue', 
+1: 'cubeRad', 
+2: 'cubeYellow', 
+3: 'cylinderBlue', 
+4: 'cylinderRed', 
+5: 'cylinderYellow', 
+6: 'prismBlue', 
+7: 'prismRed', 
+8: 'prismYellow'}
