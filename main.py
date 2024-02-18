@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 from ultralytics import YOLO
 
-model = YOLO('trainFile/train4/last.pt')
-path_video = "obj/test/RPReplay_Final1707572773.mp4"
+model = YOLO('train4/last.pt')
+path_video = "obj/test/RPReplay_Final1707572773.mp4" #เปลี่ยน path ของ vdo
 cap = cv2.VideoCapture(path_video)
 
 
